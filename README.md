@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MatzCoding
-- 👀 I’m interested in html, css and SASS
-- 🌱 I’m currently learning SASS
-- 💞️ I’m looking to collaborate on 2025
-- 📫 How to reach me matzdesignpro@gmail.com
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Java Script
+- 💞️ I’m looking to collaborate on 2026
+- 📫 How to reach me matst4ck@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I want tobe better
+- ⚡ Fun fact: I want to be better
 
 <!---
 MatzCoding/MatzCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
