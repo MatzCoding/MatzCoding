@@ -1,3 +1,3 @@
-Hello, im young developer who knows HTML, CSS, Java Script, SQL
-Not working right now.
-  
+I am currently learning JavaScript and Python, and SQL.
+Web developper & Prompt Engineer (i guess?)
+French, not open for work
